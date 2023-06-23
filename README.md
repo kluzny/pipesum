@@ -33,10 +33,10 @@ Options:
 
 ## TODO
 
-* GPL 3.0
-* Github
 * have a fail fast mode that non-zero exist on first warn/error
 * option to strip out non-numerics ^[\-0-9\.]
 * accept user regexes? or better just to chain after grep?
 * have an -a, --all that sums every column
 * use a non-blocking model via tokio
+
+Copyright 2023 Kyle Luzny
